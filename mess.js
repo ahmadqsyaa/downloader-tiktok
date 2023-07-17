@@ -1,0 +1,1 @@
+msg={agent:{"user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36"},url:{mess:"url require!",status:"gagal!",data:null},token:{mess:"token require!",status:"gagal!",data:null},tokenx:{mess:"token invalid!",status:"gagal!",data:null},result:{mess:"error result",status:"gagal!",data:null}};
